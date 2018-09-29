@@ -1,0 +1,59 @@
+h1{
+    color: pink;
+}
+body{
+    background-color: pink;
+}
+#quotebox{
+    background-color: white;
+    width: 50%;
+    margin: 250px auto auto auto;
+    padding: 50px;
+    border-radius: 10px;
+}
+#quote{
+
+    font-family: 'sans-serif';
+    font-size: 20px;
+   
+}
+#author{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 10px;
+    float: right;
+    margin-bottom: 20px;
+    
+}
+#twitter{
+    display:inline-block;
+    width: 40px;
+    height: 40px;
+   
+}
+#tumblr{
+    display:inline-block;
+    width: 40px;
+    height: 40px;
+    
+}
+#changeQuote{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color:white;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 1px #999;
+    width: 30%;
+    height: 10%; 
+    margin-left: 300px;
+    
+
+}
+#myName{
+    color:white;
+    text-align: center;
+    font-family: fantasy;
+}
